@@ -1,0 +1,7 @@
+Django>=4.0
+djangorestframework>=3.12
+django-cors-headers>=3.5
+drf-yasg>=1.20
+celery>=5.0
+django-environ>=0.4.5
+mysqlclient>=2.0
